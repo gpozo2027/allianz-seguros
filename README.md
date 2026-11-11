@@ -1,0 +1,2 @@
+# allianz-seguros
+Allianz Seguros
