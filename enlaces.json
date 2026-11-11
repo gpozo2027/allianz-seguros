@@ -1,0 +1,317 @@
+[
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Movilidad",
+    "Nombre del Producto / Solución": "Coche",
+    "Público Objetivo": "Conductores particulares",
+    "Descripción Comercial": "Protección integral para vehículos particulares con coberturas adaptadas y asistencia 24/7."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Movilidad",
+    "Nombre del Producto / Solución": "Moto",
+    "Público Objetivo": "Motoristas particulares",
+    "Descripción Comercial": "Seguro especializado para motocicletas con coberturas urbanas y de carretera."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Movilidad",
+    "Nombre del Producto / Solución": "Ciclomotor",
+    "Público Objetivo": "Usuarios de ciclomotor",
+    "Descripción Comercial": "Protección esencial y responsabilidad civil para ciclomotores."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Movilidad",
+    "Nombre del Producto / Solución": "Patinete",
+    "Público Objetivo": "Usuarios de movilidad personal (VMP)",
+    "Descripción Comercial": "Seguro para patinetes eléctricos y movilidad urbana sostenible."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Movilidad",
+    "Nombre del Producto / Solución": "Furgoneta",
+    "Público Objetivo": "Particulares y profesionales",
+    "Descripción Comercial": "Cobertura flexible para furgonetas de uso particular o comercial."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Movilidad",
+    "Nombre del Producto / Solución": "Autocaravanas",
+    "Público Objetivo": "Viajeros y campers",
+    "Descripción Comercial": "Protección especializada para viajes y estancias en autocaravana o camper."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Movilidad",
+    "Nombre del Producto / Solución": "Embarcaciones",
+    "Público Objetivo": "Propietarios de barcos",
+    "Descripción Comercial": "Cobertura para embarcaciones de recreo, veleros y barcos a motor."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Movilidad",
+    "Nombre del Producto / Solución": "Aeronaves",
+    "Público Objetivo": "Propietarios / Operadores aéreos",
+    "Descripción Comercial": "Seguros de aviación ligera y corporativa."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Particulares",
+    "Nombre del Producto / Solución": "Hogar",
+    "Público Objetivo": "Propietarios e inquilinos",
+    "Descripción Comercial": "Protección multirriesgo para la vivienda, contenido y responsabilidad civil familiar."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Particulares",
+    "Nombre del Producto / Solución": "Perros",
+    "Público Objetivo": "Propietarios de mascotas",
+    "Descripción Comercial": "Seguro de salud, accidentes y responsabilidad civil para perros."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Particulares",
+    "Nombre del Producto / Solución": "Vida",
+    "Público Objetivo": "Familias e individuos",
+    "Descripción Comercial": "Garantía económica para los tuyos en caso de fallecimiento o incapacidad."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Particulares",
+    "Nombre del Producto / Solución": "Accidentes",
+    "Público Objetivo": "Particulares y familias",
+    "Descripción Comercial": "Indemnización y asistencia médica ante accidentes personales diarios o laborales."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Particulares",
+    "Nombre del Producto / Solución": "Salud",
+    "Público Objetivo": "Individuos y familias",
+    "Descripción Comercial": "Acceso a cuadro médico completo, especialidades y asistencia hospitalaria."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Particulares",
+    "Nombre del Producto / Solución": "Comunidades",
+    "Público Objetivo": "Comunidades de vecinos",
+    "Descripción Comercial": "Protección integral para edificios residenciales frente a siniestros y daños."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Particulares",
+    "Nombre del Producto / Solución": "Decesos",
+    "Público Objetivo": "Familias",
+    "Descripción Comercial": "Gestión integral y cobertura de gastos de sepelio y trámites sucesorios."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Particulares",
+    "Nombre del Producto / Solución": "Viajes",
+    "Público Objetivo": "Viajeros ocasionales y frecuentes",
+    "Descripción Comercial": "Asistencia médica internacional, cancelación y equipaje durante viajes."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empresas",
+    "Nombre del Producto / Solución": "Gran Empresa",
+    "Público Objetivo": "Grandes corporaciones",
+    "Descripción Comercial": "Soluciones de transferencia de riesgos a medida para grandes volúmenes de negocio."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empresas",
+    "Nombre del Producto / Solución": "ILT para Autónomos",
+    "Público Objetivo": "Trabajadores autónomos",
+    "Descripción Comercial": "Cobertura de Incapacidad Laboral Temporal para proteger ingresos en bajas médicas."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empresas",
+    "Nombre del Producto / Solución": "Responsabilidad Civil",
+    "Público Objetivo": "Empresas y profesionales",
+    "Descripción Comercial": "Protección frente a reclamaciones por daños a terceros en el ejercicio de la actividad."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empresas",
+    "Nombre del Producto / Solución": "Autónomos y Pymes",
+    "Público Objetivo": "Pequeñas y medianas empresas",
+    "Descripción Comercial": "Multirriesgo comercial y profesional adaptado a comercios, talleres y oficinas."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empleados",
+    "Nombre del Producto / Solución": "Vida Empleados",
+    "Público Objetivo": "Colectivos de empresa",
+    "Descripción Comercial": "Seguro de vida colectivo como beneficio social para empleados."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empleados",
+    "Nombre del Producto / Solución": "Salud Empleados",
+    "Público Objetivo": "Colectivos de empresa",
+    "Descripción Comercial": "Planes de salud corporativos con ventajas fiscales para la empresa."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empleados",
+    "Nombre del Producto / Solución": "Accidentes Empleados",
+    "Público Objetivo": "Colectivos de empresa",
+    "Descripción Comercial": "Protección de accidentes laborales y convenio para la plantilla."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empleados",
+    "Nombre del Producto / Solución": "Ahorro Empleados",
+    "Público Objetivo": "Colectivos de empresa",
+    "Descripción Comercial": "Planes de ahorro colectivo e incentivos de retención de talento."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empleados",
+    "Nombre del Producto / Solución": "Viajes Empleados",
+    "Público Objetivo": "Personal corporativo desplazado",
+    "Descripción Comercial": "Cobertura de asistencia en viajes de negocios y desplazamientos laborales."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empleados",
+    "Nombre del Producto / Solución": "PPE Grupo Allianz",
+    "Público Objetivo": "Colectivos de empresa",
+    "Descripción Comercial": "Plan de Pensiones Empleo para el colectivo de trabajadores."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Empleados",
+    "Nombre del Producto / Solución": "Plan Social Empresarial",
+    "Público Objetivo": "Empresas y RRHH",
+    "Descripción Comercial": "Estrategia integral de previsión social complementaria para la plantilla."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Otros Seguros",
+    "Nombre del Producto / Solución": "Accidentes Colectivos",
+    "Público Objetivo": "Asociaciones y grupos",
+    "Descripción Comercial": "Cobertura de accidentes para colectivos, eventos y agrupaciones."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Otros Seguros",
+    "Nombre del Producto / Solución": "Agrarios Combinados",
+    "Público Objetivo": "Agricultores y ganaderos",
+    "Descripción Comercial": "Protección del sector primario frente a inclemencias climáticas y plagas."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Otros Seguros",
+    "Nombre del Producto / Solución": "Camión y Vehículo Comercial",
+    "Público Objetivo": "Transportistas y flotas",
+    "Descripción Comercial": "Seguro para vehículos pesados, cabezas tractoras y transporte de mercancías."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Otros Seguros",
+    "Nombre del Producto / Solución": "Ciberseguro",
+    "Público Objetivo": "Empresas y pymes",
+    "Descripción Comercial": "Protección ante ciberataques, extorsión digital y fuga de datos."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Otros Seguros",
+    "Nombre del Producto / Solución": "Decenal",
+    "Público Objetivo": "Promotores y constructores",
+    "Descripción Comercial": "Garantía decenal de daños materiales para la edificación según LOE."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Otros Seguros",
+    "Nombre del Producto / Solución": "Equipos Electrónicos",
+    "Público Objetivo": "Empresas y comercios",
+    "Descripción Comercial": "Cobertura de daños en hardware, servidores y maquinaria informática."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Otros Seguros",
+    "Nombre del Producto / Solución": "Maquinaria",
+    "Público Objetivo": "Industria y construcción",
+    "Descripción Comercial": "Protección frente a averías e imprevistos en maquinaria industrial/agrícola."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Otros Seguros",
+    "Nombre del Producto / Solución": "Pesca y Caza",
+    "Público Objetivo": "Aficionados y profesionales",
+    "Descripción Comercial": "Responsabilidad civil y accidentes para la práctica de caza y pesca."
+  },
+  {
+    "Gran Categoria": "Seguros",
+    "Subcategoria / Segmento": "Otros Seguros",
+    "Nombre del Producto / Solución": "Mercancías",
+    "Público Objetivo": "Logística y transportistas",
+    "Descripción Comercial": "Protección de la carga transportada por vía terrestre, marítima o aérea."
+  },
+  {
+    "Gran Categoria": "Ahorro e Inversión",
+    "Subcategoria / Segmento": "Fondos de Inversiones",
+    "Nombre del Producto / Solución": "Plan Extra",
+    "Público Objetivo": "Inversores particulares",
+    "Descripción Comercial": "Fondo con estrategia optimizada para aportaciones periódicas."
+  },
+  {
+    "Gran Categoria": "Ahorro e Inversión",
+    "Subcategoria / Segmento": "Fondos de Inversiones",
+    "Nombre del Producto / Solución": "Activelnvest",
+    "Público Objetivo": "Inversores dinámicos",
+    "Descripción Comercial": "Gestión activa de fondos según el perfil de riesgo del cliente."
+  },
+  {
+    "Gran Categoria": "Ahorro e Inversión",
+    "Subcategoria / Segmento": "Fondos de Inversiones",
+    "Nombre del Producto / Solución": "Crescendo",
+    "Público Objetivo": "Inversores a medio/largo plazo",
+    "Descripción Comercial": "Solución de inversión orientada al crecimiento del capital."
+  },
+  {
+    "Gran Categoria": "Ahorro e Inversión",
+    "Subcategoria / Segmento": "Seguros de Ahorro",
+    "Nombre del Producto / Solución": "Perspektive",
+    "Público Objetivo": "Ahorradores con perfil conservador",
+    "Descripción Comercial": "Seguro de ahorro con garantía de capital e interés atractivo."
+  },
+  {
+    "Gran Categoria": "Ahorro e Inversión",
+    "Subcategoria / Segmento": "Seguros de Ahorro",
+    "Nombre del Producto / Solución": "Unit Linked",
+    "Público Objetivo": "Inversores en renta variable/mixta",
+    "Descripción Comercial": "Seguro de vida vinculado a fondos de inversión para máxima flexibilidad."
+  },
+  {
+    "Gran Categoria": "Ahorro e Inversión",
+    "Subcategoria / Segmento": "Seguros de Ahorro",
+    "Nombre del Producto / Solución": "Capital",
+    "Público Objetivo": "Ahorradores a plazo",
+    "Descripción Comercial": "Solución de ahorro asegurado con rendimiento fijado desde el inicio."
+  },
+  {
+    "Gran Categoria": "Ahorro e Inversión",
+    "Subcategoria / Segmento": "Seguros de Ahorro",
+    "Nombre del Producto / Solución": "Plazo Flexible",
+    "Público Objetivo": "Ahorradores a corto/medio plazo",
+    "Descripción Comercial": "Disponibilidad del dinero con liquidez flexible según necesidades."
+  },
+  {
+    "Gran Categoria": "Ahorro e Inversión",
+    "Subcategoria / Segmento": "Seguros de Ahorro",
+    "Nombre del Producto / Solución": "Ahorro Capital",
+    "Público Objetivo": "Ahorradores sistemáticos",
+    "Descripción Comercial": "Plan de ahorro garantizado con aportaciones periódicas o únicas."
+  },
+  {
+    "Gran Categoria": "Ahorro e Inversión",
+    "Subcategoria / Segmento": "Planes de Pensiones",
+    "Nombre del Producto / Solución": "Planes de Pensiones Allianz",
+    "Público Objetivo": "Particulares para jubilación",
+    "Descripción Comercial": "Soluciones de previsión individual con ventajas fiscales para el retiro."
+  }
+]
